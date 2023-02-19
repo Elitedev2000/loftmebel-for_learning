@@ -1,19 +1,15 @@
 /* Roboto */
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 /* Playfair Display */
-
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
 
 /* Robot Condensed */
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
 
 
 
 /* ==== Header Part ==== */
-
 header .contact ul {
     padding: 0 !important;
     font-family: 'Roboto', sans-serif;
@@ -32,9 +28,7 @@ header .contact ul li a {
 }
 
 
-
 /* ==== Navbar Part ==== */
-
 nav img {
     cursor: pointer;
 }
@@ -62,9 +56,7 @@ nav img {
 }
 
 
-
 /* ==== Category Part ==== */
-
 .category a {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
@@ -74,9 +66,7 @@ nav img {
 }
 
 
-
 /* ==== Carousel ==== */
-
 .carousel-content .text-box {
     left: 10%;
 }
@@ -104,9 +94,7 @@ nav img {
 }
 
 
-
 /* ==== Main Part ==== */
-
 main .container .col .card img {
     width: 200px;
     height: 150px;
